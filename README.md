@@ -2,6 +2,8 @@
 A simple Pomodoro Discord Rich Presence
 
 <img width="249" height="99" alt="image" src="https://github.com/user-attachments/assets/0e2047ba-f7f3-4854-8104-02cb62de0a00" />
+<img width="254" height="113" alt="image" src="https://github.com/user-attachments/assets/03baee40-81b0-42d9-952f-119d94be5ef8" />
+
 
 ## Features
 - Coming in 2 styles:
