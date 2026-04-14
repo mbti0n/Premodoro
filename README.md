@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="premodoro" src="https://github.com/user-attachments/assets/2b145ae5-a0ab-413d-8a17-b4af76314e7b" />
+
 # Premodoro
 A simple Pomodoro Discord Rich Presence
 
