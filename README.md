@@ -34,7 +34,7 @@ python3 /path/to/pomodoro.py
 ### Run as a terminal command (updating)
 
 ## Future features
-- [ ] Automated command to add to `bin`
+- [x] Automated command to add to `bin`
 - [ ] GUI version
-- [ ] Menu bar version
+- [x] Menu bar version
 - [ ] Run without relying on terminal window
